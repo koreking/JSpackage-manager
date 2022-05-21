@@ -1,0 +1,45 @@
+body {
+    background-color: #f4f4f2;
+}
+h4 {
+    text-align: center;
+    background-color: #2e3031;
+    color: white;
+    padding: 8px;
+    font-weight: normal;
+}
+h2 {
+    text-align: center;
+    font-weight: normal;
+}
+.click {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    height: 45px;
+    font-style: normal;
+    font-weight: normal;
+    background-color: #1f738f;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+button:hover {
+    background-color: #529db7;
+    transition: 0.7s;
+}
+.btn1 {
+    width: 135px;
+}
+.btn2 {
+    width: 110px;
+}
+input{
+    vertical-align: middle;
+}
+.options {
+    margin-left: auto;
+    margin-right: auto;
+}
